@@ -112,7 +112,6 @@
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranCalveyra&theme=dark" alt="anii693" />
   <img src="https://github-readme-stats.vercel.app/api?username=FranCalveyra&show_icons=true&theme=dark&locale=en" alt="anii693" />
 </div>
 <br>
