@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: right;">
   <div>
-    📖 I’m a <strong>Software Engineer Student</strong> at 
+    📖 I’m a <strong>Software Engineering Student</strong> at 
     <a href="https://www.austral.edu.ar" target="_blank"><strong>Universidad Austral</strong></a>
   </div>
 <br>
