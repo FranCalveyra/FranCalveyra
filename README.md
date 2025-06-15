@@ -1,134 +1,158 @@
-<h1 align="center"> <a href="https://francalveyra.github.io/portfolio" target="_blank" rel="noreferrer"> Hi 👋, I'm Francisco Calveyra <a/></h1>
+<div align="center">
+  
+# 🚀 Francisco Calveyra
+### `Software Engineer • Full-Stack Developer • Tech Enthusiast`
 
-<div style="display: flex; align-items: center; justify-content: right;">
-  <div>
-    📖 I’m a <strong>Software Engineering Student</strong> at 
-    <a href="https://www.austral.edu.ar" target="_blank"><strong>Universidad Austral</strong></a>
-  </div>
-<br>
-  <div style="flex-grow: 1; text-align: right;">
-    <img alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="decoration" width="300" height="220" />
-  </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francalveyra.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-calveyra)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscocalveyra24@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Coding Animation">
+
 </div>
-<br>
-<hr width="36%">
 
-<h2 align="left">Technologies</h2>
-<h3>Favorite Technologies</h3>
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=kotlin" alt=`Icon`/>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=golang" alt=`Icon`/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" alt=`Icon`/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart" alt=`Icon`/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter" alt=`Icon`/>
-  </a>
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt=`Icon`/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=docker" alt=`Icon`/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=spring" alt=`Icon`/> 
-  </a>
+---
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=postgresql" alt=`Icon`/>
-  </a>
-  
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=idea" alt=`Icon`/>
-  </a>
-  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt=`Icon`/>
-  </a>
-</p>
+<div align="center">
 
-<h3>Other Technologies and Tools</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java" alt=`Icon`/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt=`Icon`/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=react" alt=`Icon`/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nodejs" alt=`Icon`/>
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" alt=`Icon`/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=express" alt=`Icon`/> 
-  </a>
- 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=linux" alt=`Icon`/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://skillicons.dev/icons?i=mysql" alt=`Icon`/>
-  </a>
-  
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nginx" alt=`Icon`/>
-  </a>
+## 🎓 Education & Background
+**Software Engineering Student** at [**Universidad Austral**](https://www.austral.edu.ar)
 
-  <a href="https://redis.io/es/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=redis" alt=`Icon`/> 
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=gradle" alt=`Icon`/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure" alt=`Icon`/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=python" alt=`Icon`/>
-  </a>
-</p>
+*Building robust, scalable solutions with modern technologies*
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Developer Workflow">
 
-<h3>My GitHub Stats:</h3>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranCalveyra&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FranCalveyra&show_icons=true&theme=dark&locale=en" alt="anii693" height="220" />
 </div>
-<br>
 
-<!---> <div style="display: flex; justify-content: space-between; align-items: center;">
-  
-<!---></div>
-<br>
-<hr width="60%" >
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francisco-calveyra" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt=`Icon`/>
-</a>
-<a href="mailto:franciscocalveyra24@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=gmail" alt=`Icon`/>
-</a>
+<div align="center">
+
+## 💼 Professional Experience
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="Professional Experience">
+
+</div>
+
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
+### 🚀 **Junior Game Developer** | [*Wumbox*](https://www.wumbox.com/)  
+**📅 April 2025 – Present** | 📍 Remote (Freelance)
+
+- 📚 **Freelance learning & mastery:** Dived into game-dev fundamentals—core game loops.  
+- 🔧 **Interactive educational games:** Designed, developed, and polished feature-rich titles using the **Flame** framework and **Rive** as an asset library, prototyping gameplay mechanics and fluid animations.  
+- 🤝 **Cross-functional collaboration:** Partnered remotely with designers, educators, and QA to refine requirements, iterate on features, and ship on schedule within agile sprints.  
+
+---
+
+### 💻 **Flutter Developer Intern** | [*Globant*](https://www.globant.com/)  
+**📅 December 2024 – April 2025** | 📍 Buenos Aires
+
+- 🎓 **Fast learning with Flutter:** Rapidly advanced from novice to production-ready, applying **Flutter** & **Dart** best practices to enterprise-grade code.  
+- 🤝 **Agile teamwork:** Embedded in a senior-led squad—participating in sprint planning, peer code reviews, and continuous delivery—to ensure feature quality and rapid iteration.  
+
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💾 Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,golang,rust,dart,java,ts,python&theme=dark" alt="Programming Languages" />
 </p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
+</p>
+
+### 🔧 Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,git,docker,gradle,azure&theme=dark" alt="Tools" />
+</p>
+
+### 🗄️ Databases & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,nginx,redis,linux&theme=dark" alt="Databases" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Development Analytics
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Data Analytics">
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=FranCalveyra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranCalveyra&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180"/>
+
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranCalveyra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Project Icon">
+
+*Check out my [portfolio](https://francalveyra.github.io/portfolio) for detailed project showcases*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/portfolio)
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FranCalveyra&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=chess&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/chess)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=conc-summary&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/conc-summary)
 
-------
+</div>
 
+---
 
-[FranCalveyra](https://github.com/FranCalveyra)
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" alt="Handshake">
+
+```
+💼 Open to opportunities and collaborations
+🌱 Always learning and growing
+🎯 Focused on building impactful solutions
+```
+
+<p>
+  <a href="https://linkedin.com/in/francisco-calveyra">
+    <img src="https://img.shields.io/badge/-Francisco%20Calveyra-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/francisco-calveyra"/>
+  </a>
+  <a href="mailto:franciscocalveyra24@gmail.com">
+    <img src="https://img.shields.io/badge/-franciscocalveyra24@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscocalveyra24@gmail.com"/>
+  </a>
+  <a href="https://francalveyra.github.io/portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
+
+<sub>💡 **"Code is poetry written in logic"** - Building the future, one commit at a time</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=FranCalveyra&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
