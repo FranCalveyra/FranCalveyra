@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Francisco Calveyra
-### `Software Engineer • Full-Stack Developer • Tech Enthusiast`
+### `Software Engineering Student • Full-Stack Developer • Tech Enthusiast`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francalveyra.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-calveyra)
@@ -27,38 +27,8 @@
 ---
 
 <div align="center">
-
-## 💼 Professional Experience
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="Professional Experience">
-
-</div>
-
-<div align="left" style="max-width: 800px; margin: 0 auto;">
-
-### 🚀 **Junior Game Developer** | [*Wumbox*](https://www.wumbox.com/)  
-**📅 April 2025 – Present** | 📍 Remote (Freelance)
-
-- 📚 **Freelance learning & mastery:** Dived into game-dev fundamentals—core game loops.  
-- 🔧 **Interactive educational games:** Designed, developed, and polished feature-rich titles using the **Flame** framework and **Rive** as an asset library, prototyping gameplay mechanics and fluid animations.  
-- 🤝 **Cross-functional collaboration:** Partnered remotely with designers, educators, and QA to refine requirements, iterate on features, and ship on schedule within agile sprints.  
-
----
-
-### 💻 **Flutter Developer Intern** | [*Globant*](https://www.globant.com/)  
-**📅 December 2024 – April 2025** | 📍 Buenos Aires
-
-- 🎓 **Fast learning with Flutter:** Rapidly advanced from novice to production-ready, applying **Flutter** & **Dart** best practices to enterprise-grade code.  
-- 🤝 **Agile teamwork:** Embedded in a senior-led squad—participating in sprint planning, peer code reviews, and continuous delivery—to ensure feature quality and rapid iteration.  
-
-
-</div>
-
----
-
+  
 ## 🛠️ Technology Arsenal
-
-<div align="center">
 
 ### 💾 Core Languages
 <p>
@@ -99,24 +69,6 @@
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranCalveyra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Project Icon">
-
-*Check out my [portfolio](https://francalveyra.github.io/portfolio) for detailed project showcases*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/portfolio)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=chess&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/chess)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranCalveyra&repo=conc-summary&theme=tokyonight&hide_border=true)](https://github.com/FranCalveyra/conc-summary)
 
 </div>
 
