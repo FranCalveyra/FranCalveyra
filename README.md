@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Francisco Calveyra
-### `Software Engineering Student • Full-Stack Developer • Tech Enthusiast`
+### `Computer Engineering Student • Tech Enthusiast`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francalveyra.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-calveyra)
@@ -16,7 +16,7 @@
 <div align="center">
 
 ## 🎓 Education & Background
-**Software Engineering Student** at [**Universidad Austral**](https://www.austral.edu.ar)
+**Computer Engineering Student** at [**Universidad Austral**](https://www.austral.edu.ar)
 
 *Building robust, scalable solutions with modern technologies*
 
@@ -37,12 +37,12 @@
 
 ### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nextjs,tailwind,nestjs,qt&theme=dark" alt="Frameworks" />
 </p>
 
 ### 🔧 Tools & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,androidstudio,git,docker,gradle,azure,githubactions,aws&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,docker,gradle,azure,githubactions,aws&theme=dark" alt="Tools" />
 </p>
 
 ### 🗄️ Databases & Systems
@@ -79,12 +79,6 @@
 ## 🤝 Let's Connect & Collaborate
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" alt="Handshake">
-
-```
-💼 Open to opportunities and collaborations
-🌱 Always learning and growing
-🎯 Focused on building impactful solutions
-```
 
 <p>
   <a href="https://linkedin.com/in/francisco-calveyra">
