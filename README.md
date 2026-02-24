@@ -42,7 +42,7 @@
 
 ### 🔧 Tools & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,docker,gradle,azure,githubactions,aws&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,docker,gradle,azure,githubactions,aws,terraform&theme=dark" alt="Tools" />
 </p>
 
 ### 🗄️ Databases & Systems
