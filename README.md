@@ -29,6 +29,7 @@ Currently splitting time between coursework (distributed systems, concurrent pro
 
 ## 🛠️ Technology Arsenal
 
+<!-- SKILLS:START -->
 ### 💾 Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,golang,rust,dart,java,cs,ts,python&theme=dark" alt="Programming Languages" />
@@ -42,12 +43,10 @@ Currently splitting time between coursework (distributed systems, concurrent pro
 
 ### 🤖 AI & LLM Engineering
 <p>
-  <img src="icons/openai.svg" width="48" height="48" alt="OpenAI" />
-  <img src="icons/anthropic.svg" width="48" height="48" alt="Anthropic" />
+  <img src="icons/openai.svg" width="48" height="48" alt="ChatGPT" />
   <img src="icons/claude.svg" width="48" height="48" alt="Claude" />
   <img src="icons/gemini.svg" width="48" height="48" alt="Gemini" />
   <img src="icons/ollama.svg" width="48" height="48" alt="Ollama" />
-  <img src="icons/cursor.svg" width="48" height="48" alt="Cursor" />
   <img src="icons/langchain.svg" width="48" height="48" alt="LangChain" />
   <img src="icons/model-context-protocol.svg" width="48" height="48" alt="Model Context Protocol" />
 </p>
@@ -65,6 +64,17 @@ Currently splitting time between coursework (distributed systems, concurrent pro
   <img src="icons/locust.svg" width="48" height="48" alt="Locust" />
   <img src="icons/new-relic.svg" width="48" height="48" alt="New Relic" />
 </p>
+
+### 🧰 Tools & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,slack&theme=dark" alt="Tools & Editors" />
+  <img src="icons/cursor.svg" width="48" height="48" alt="Cursor" />
+  <img src="icons/obsidian.svg" width="48" height="48" alt="Obsidian" />
+  <img src="icons/loom.svg" width="48" height="48" alt="Loom" />
+  <img src="icons/jira.svg" width="48" height="48" alt="Jira" />
+  <img src="icons/excalidraw.svg" width="48" height="48" alt="Excalidraw" />
+</p>
+<!-- SKILLS:END -->
 
 </div>
 

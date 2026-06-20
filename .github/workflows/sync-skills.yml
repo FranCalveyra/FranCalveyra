@@ -1,0 +1,36 @@
+name: Sync skills from portfolio
+
+on:
+  repository_dispatch:
+    types: [skills-updated]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Fetch skills.yml from portfolio
+        run: curl -fsSL -o /tmp/skills.yml https://raw.githubusercontent.com/FranCalveyra/portfolio/main/data/skills.yml
+
+      - name: Regenerate Technology Arsenal section
+        run: python3 scripts/sync_skills.py /tmp/skills.yml
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: sync technology arsenal from portfolio skills.yml" && git push)
