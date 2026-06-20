@@ -67,8 +67,9 @@ Currently splitting time between coursework (distributed systems, concurrent pro
 
 ### 🧰 Tools & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=git,figma,slack&theme=dark" alt="Tools & Editors" />
+  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Tools & Editors" />
   <img src="icons/cursor.svg" width="48" height="48" alt="Cursor" />
+  <img src="icons/slack.svg" width="48" height="48" alt="Slack" />
   <img src="icons/obsidian.svg" width="48" height="48" alt="Obsidian" />
   <img src="icons/loom.svg" width="48" height="48" alt="Loom" />
   <img src="icons/jira.svg" width="48" height="48" alt="Jira" />
