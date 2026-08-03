@@ -14,6 +14,7 @@ SECTIONS = [
     ("language", "Core Languages", "💾", "Programming Languages"),
     ("framework", "Frameworks & Libraries", "🚀", "Frameworks"),
     ("ai", "AI & LLM Engineering", "🤖", "AI & LLM Engineering"),
+    ("database", "Databases", "🗄️", "Databases"),
     ("cloud", "Cloud & Infrastructure", "☁️", "Cloud & Infrastructure"),
     ("testing", "Testing & DevOps", "🧪", "Testing & DevOps"),
     ("tools", "Tools & Editors", "🧰", "Tools & Editors"),
@@ -21,9 +22,10 @@ SECTIONS = [
 
 # A skill can carry multiple tags (e.g. GitHub Actions is both "testing" and
 # "cloud"); this order decides which single README section it lands in so it
-# doesn't get rendered twice. Testing must outrank cloud, and tools is the
-# catch-all so it only claims skills with no other mapped tag.
-ASSIGNMENT_PRIORITY = ["language", "framework", "ai", "testing", "cloud", "tools"]
+# doesn't get rendered twice. Testing must outrank cloud, database must outrank
+# cloud so a managed store lands under Databases, and tools is the catch-all so
+# it only claims skills with no other mapped tag.
+ASSIGNMENT_PRIORITY = ["language", "framework", "ai", "testing", "database", "cloud", "tools"]
 TAG_TO_TITLE = {tag: title for tag, title, _, _ in SECTIONS}
 
 

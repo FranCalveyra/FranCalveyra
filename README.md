@@ -51,6 +51,11 @@ Currently splitting time between coursework (distributed systems, concurrent pro
   <img src="icons/model-context-protocol.svg" width="48" height="48" alt="Model Context Protocol" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" alt="Databases" />
+</p>
+
 ### ☁️ Cloud & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,supabase,firebase&theme=dark" alt="Cloud & Infrastructure" />
